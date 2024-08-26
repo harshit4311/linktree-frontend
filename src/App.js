@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       <div className="profile">
         <img
-          src="path-to-your-profile-image.jpg"
+          src="/images/BlackBG-GitHub_PFP.png"
           alt="Profile"
           className="profile-picture"
         />
