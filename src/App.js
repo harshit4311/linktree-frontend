@@ -24,7 +24,7 @@ function App() {
         <a href="https://github.com/harshit4311" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-github"></i>
         </a>
-        <a href="https://instagram.com/your-username" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/harshit.shahh/" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-instagram"></i>
         </a>
       </div>
