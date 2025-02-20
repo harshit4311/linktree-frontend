@@ -15,7 +15,7 @@ function App() {
         />
         <h1><strong>Harshit Shah</strong></h1>
         <p><strong>CS @BITS Pilani </strong></p>
-        <p><strong>Prev. AI/ML Intern@University of Oxford | Data Scientist/Machine Learning Engineer</strong></p>
+        <p><strong>Prev. AI/ML Intern @University of Oxford | Data Scientist/Machine Learning Engineer</strong></p>
       </div>
       <div className="links">
         <a href="https://linkedin.com/in/harshit-shah16" target="_blank" rel="noopener noreferrer">
